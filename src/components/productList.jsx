@@ -39,7 +39,7 @@ const ProductList = () => {
   const validateForm = () => {
     const value = parseFloat(formProduct.value);
     if (isNaN(value) || value <= 0) {
-      setErrorMessage('O valor deve ser um número maior que zero.');
+      setErrorMessage('O valor não pode ser negativo.');
       return false;
     }
     setErrorMessage('');

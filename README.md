@@ -43,7 +43,7 @@ LinkedIn: [Yasmin Muniz](https://www.linkedin.com/in/yasmin-muniz-28b820298/)
 1. **Instalação**:
    - Clone este repositório:
      ```bash
-     git clone https://github.com/Yasmiinmuniz
+     git clone https://github.com/Yasmiinmuniz/oak-produtos.git
      ```
    - Navegue até o diretório do projeto:
      ```bash
@@ -66,4 +66,4 @@ Este projeto está em desenvolvimento e foi concebido como uma versão inicial p
 
 A implementação de um sistema mais robusto com banco de dados e back-end é um próximo passo que pretendo realizar assim que houver mais tempo disponível. Agradeço pela compreensão e estou aberto a feedbacks e sugestões para aprimorar este projeto.
 
-As atualizações e melhorias podem ser encontradas no repositório do GitHub [Yasmiinmuniz](https://github.com/Yasmiinmuniz).
+As atualizações e melhorias podem ser encontradas no repositório do GitHub [Yasmiinmuniz](https://github.com/Yasmiinmuniz/oak-produtos.git).

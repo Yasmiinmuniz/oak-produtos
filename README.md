@@ -33,9 +33,9 @@ A aplicação possui duas funcionalidades principais:
 
 ## Informações do Desenvolvedor
 
-Nome: Yasmin da Silva Muniz
-E-mail: yasmindasilvamuniz@gmail.com
-GitHub: [Yasmiinmuniz](https://github.com/Yasmiinmuniz)
+Nome: Yasmin da Silva Muniz  
+E-mail: yasmindasilvamuniz@gmail.com  
+GitHub: [Yasmiinmuniz](https://github.com/Yasmiinmuniz)  
 LinkedIn: [Yasmin Muniz](https://www.linkedin.com/in/yasmin-muniz-28b820298/)
 
 ## Instruções de Uso

@@ -47,7 +47,7 @@ LinkedIn: [Yasmin Muniz](https://www.linkedin.com/in/yasmin-muniz-28b820298/)
      ```
    - Navegue até o diretório do projeto:
      ```bash
-     cd product-list-management
+     cd oak-produtos
      ```
    - Instale as dependências:
      ```bash
